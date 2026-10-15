@@ -54,7 +54,6 @@
 | 04 | Matriz de trazabilidad | [Matriz de Trazabilidad.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Matriz%20de%20Trazabilidad.pdf) | `documents/` |
 | 05 | Bitácora de IA | [Bitacora de IA.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Bitacora%20de%20IA.pdf) | `documents/` |
 | 06 | Código base | [Codigo Base.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/src/Codigo%20Base.pdf) | `src/` |
-| 06 | Código base (código fuente) | [Codigo.cs](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/src/Codigo.cs) | `src/` |
 | 07 | Repositorio GitHub | Este repositorio | Raíz |
 | 08 | Presentación y defensa | [Preguntas y respuestas.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Preguntas%20y%20respuestas.pdf) | `documents/` |
 
