@@ -52,7 +52,9 @@
 | 02 | Diagrama de dominio y clases | [Diagrama de dominio y clases.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/diagrams/Diagrama%20de%20dominio%20y%20clases.pdf) | `diagrams/` |
 | 02 | Mapa de dominio | [Mapa de dominio.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/diagrams/Mapa%20de%20dominio.pdf) | `diagrams/` |
 | 04 | Matriz de trazabilidad | [Matriz de Trazabilidad.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Matriz%20de%20Trazabilidad.pdf) | `documents/` |
+| 05 | Bitácora de IA | [Bitacora de IA.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Bitacora%20de%20IA.pdf) | `documents/` |
 | 06 | Código base | [Codigo Base.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/src/Codigo%20Base.pdf) | `src/` |
+| 06 | Código base (código fuente) | [Codigo.cs](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/src/Codigo.cs) | `src/` |
 | 07 | Repositorio GitHub | Este repositorio | Raíz |
 | 08 | Presentación y defensa | [Preguntas y respuestas.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Preguntas%20y%20respuestas.pdf) | `documents/` |
 
@@ -66,8 +68,9 @@ Se recomienda revisar en este orden:
 | 2 | Diagramas: primero el mapa de dominio y después el diagrama de dominio y clases (los nombres coinciden con los del informe) | [Mapa de dominio.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/diagrams/Mapa%20de%20dominio.pdf), [Diagrama de dominio y clases.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/diagrams/Diagrama%20de%20dominio%20y%20clases.pdf) | `diagrams/` |
 | 3 | Matriz de trazabilidad: relaciona necesidades (N-xx), reglas (RN-xx), historias de usuario (US-xx), casos de uso (CU-xx), componentes y decisiones (ADR) | [Matriz de Trazabilidad.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Matriz%20de%20Trazabilidad.pdf) | `documents/` |
 | 4 | ADR | [ADR.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/ADR.pdf) | `documents/` |
-| 5 | Código base: estructura mínima de las capas de dominio, aplicación e infraestructura | [Codigo Base.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/src/Codigo%20Base.pdf) | `src/` |
-| 6 | Preguntas y respuestas de la defensa | [Preguntas y respuestas.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Preguntas%20y%20respuestas.pdf) | `documents/` |
+| 5 | Código base: estructura mínima de las capas de dominio, aplicación e infraestructura | [Codigo Base.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/src/Codigo%20Base.pdf), [Codigo.cs](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/src/Codigo.cs) | `src/` |
+| 6 | Bitácora de IA: prompts, respuestas útiles, errores detectados y decisiones del equipo | [Bitacora de IA.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Bitacora%20de%20IA.pdf) | `documents/` |
+| 7 | Preguntas y respuestas de la defensa | [Preguntas y respuestas.pdf](https://github.com/Sebastian-Esp1/Unidad-3-CLN/blob/main/documents/Preguntas%20y%20respuestas.pdf) | `documents/` |
 
 ## 6. Documentos de la Unidad 2 en los que se basa
 
