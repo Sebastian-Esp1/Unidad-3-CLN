@@ -38,7 +38,7 @@
 
 | Carpeta | Contenido |
 |---|---|
-| `docs/` | Informe de arquitectura, ADR, matriz de trazabilidad y bitácora de IA |
+| `documents/` | Informe de arquitectura, ADR, matriz de trazabilidad y bitácora de IA |
 | `diagrams/` | Archivos fuente de los diagramas y sus exportaciones (PDF/PNG) |
 | `src/` | Código base organizado en `dominio/`, `aplicacion/` e `infraestructura/` |
 | `tests/` | Escenarios o pruebas seleccionadas |
@@ -48,11 +48,11 @@
 
 | # | Entregable | Ubicación |
 |---|---|---|
-| 01 | Informe de arquitectura (PDF) | [docs/Informe_Arquitectura_Sazon_Urbano.pdf](docs/) |
+| 01 | Informe de arquitectura (PDF) | [documents/Informe_Arquitectura_Sazon_Urbano.pdf](documents/) |
 | 02 | Diagrama de dominio y clases (fuente y exportación) | [diagrams/](diagrams/) |
 | 03 | Diagramas de secuencia (2 fuentes y exportaciones) | [diagrams/](diagrams/) |
-| 04 | Matriz de trazabilidad | [docs/](docs/) |
-| 05 | Bitácora de IA | [docs/](docs/) |
+| 04 | Matriz de trazabilidad | [documents/](documents/) |
+| 05 | Bitácora de IA | [documents/](documents/) |
 | 06 | Código base | [src/](src/) |
 | 07 | Repositorio GitHub | Este repositorio |
 | 08 | Presentación y defensa | [enlace o archivo] |
