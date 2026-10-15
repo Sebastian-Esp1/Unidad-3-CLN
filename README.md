@@ -9,7 +9,7 @@
 | Nombre | Matrícula | Carrera |
 |---|---|---|
 | Jaime Sebastian Esparza Leyva | 2097304 | ITS |
-| Alan Joel Sánchez Garcá | 2082464 | ITS |
+| Alan Joel Sánchez Garcia | 2082464 | ITS |
 | Jorge Alejandro Jiménez Gonzáles | 2097849 | ITS |
 
 ## 1. Empresa y alcance
